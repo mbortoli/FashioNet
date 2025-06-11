@@ -1,6 +1,6 @@
 # FashioNet
 
-O projeto nasceu como uma ideia simples para apresentarmos ao final do curso ao lembrarmos de um pedido antigo (mas recorrente) da minha irmã: Aplicativo igual ao que aparece no filme "As patricinhas de Beverly Hills".
+O projeto nasceu como uma ideia simples para apresentarmos ao final do curso ao lembrarmos de um pedido antigo (mas recorrente) da minha irmã: Aplicativo igual ao que aparece no filme "As patricinhas de Beverly Hills" (Clueless).
 
 ![eu sei, eu sei...](https://badulakit.files.wordpress.com/2013/07/closet-cher.jpg)
 
